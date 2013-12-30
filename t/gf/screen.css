@@ -1,0 +1,47 @@
+* {
+	margin:0;
+	padding:0;http://www.apple.com/startpage/
+}
+
+html {
+	overflow:hidden;
+}
+
+body {
+	background:url('/t/gf/bg.jpg') repeat;
+}
+
+a {
+	color:#AEAEAE;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#FFF;
+	text-decoration:underline;
+}
+
+header section#community {
+	background:url('/t/gf/bg-light.jpg') repeat #333;
+	border-bottom:1px solid #222;
+	padding:.4em 1em;
+	margin-bottom:.4em;
+}
+
+header section#community p {
+	font-size:2em;
+}
+
+header nav {
+	font-family:"Verdana";
+	font-size:1.2em;
+	background:url('/t/gf/bg-dark.jpg') repeat #333;
+	border-bottom:1px solid #222;
+}
+
+header  nav a {
+	background:#222;
+}
+
+header nav a :hover{
+}
