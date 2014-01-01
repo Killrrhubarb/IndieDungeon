@@ -1,2 +1,2 @@
-IndieDungeon
+Indie Dungeon
 ============
